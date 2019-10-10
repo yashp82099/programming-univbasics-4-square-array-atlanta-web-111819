@@ -3,7 +3,7 @@ def square_array(array)
   x = 0 
   while 0 < array.lenght do
     array[x] = array[x]**2 
-    x 
+    x += 1
     
   
   
